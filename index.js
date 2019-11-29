@@ -29,5 +29,5 @@ function wakeDog(dogName, dogBreed){
   for (let i = 0; i < routine.length; i++) {
       arr.push(routine[i](h,r))
 }
-return arr 
-} 
+return arr
+}
